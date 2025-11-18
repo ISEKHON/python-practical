@@ -14,7 +14,7 @@
 6. [File Handling](#file-handling)
 7. [Object-Oriented Programming](#object-oriented-programming)
 8. [Exception Handling](#exception-handling)
-9. [Common Viva Questions](#common-viva-questions)
+9. [Common Viva Questions](#common-viva-questions-detailed-explainations)
 10. [Quick Tips for Implementation](#quick-tips-for-implementation)
 
 ---
@@ -35,7 +35,7 @@
 
 ---
 
-## Data Types & Variables (Detailed Explanation)
+## Data Types & Variables
 
 ### 1. Integer (int)
 **Definition:** Whole numbers without decimal points (positive, negative, or zero)
@@ -491,7 +491,7 @@ evens = list(filter(lambda x: x % 2 == 0, numbers))
 
 ---
 
-## Data Structures (Comprehensive Guide)
+## Data Structures
 
 ### Comparison Table
 
@@ -936,7 +936,7 @@ except Exception as e:
 
 ---
 
-## Common Viva Questions (Detailed Explanations)
+## Common Viva Questions Detailed Explainations
 
 ### 1. What is Python? What are its features?
 **Answer:** 
