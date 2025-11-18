@@ -341,9 +341,6 @@ This revision material is created for educational purposes. Feel free to use, mo
 
 **Created by:** Jagdeep Singh  
 **Roll Number:** 195  
-**Semester:** 3  
-**Purpose:** Python Practical Exam Preparation  
-**Date:** November 2025  
 
 ---
 
