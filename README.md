@@ -3,7 +3,6 @@
 **Complete revision package for Python practical exams (Viva + Implementation)**
 
 **Prepared by:** Jagdeep Singh | Roll No. 195 | Semester 3  
-**Exam Date:** November 19, 2025
 
 ---
 
