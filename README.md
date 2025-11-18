@@ -355,7 +355,7 @@ This revision material is created for educational purposes. Feel free to use, mo
 
 ---
 
-**Good luck with your practical exam! 🎓✨**
+**Good luck with your practical exam! 🎓✨** ~ Jagdeep
 
 ---
 
