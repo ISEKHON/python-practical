@@ -1,5 +1,7 @@
 # Python Practical Exam Revision Guide
-## Date: November 19, 2025
+
+**Student:** Jagdeep Singh  
+**Roll Number:** 195  
 
 ---
 
